@@ -1,0 +1,2 @@
+- No python atributos de classes sao sempre determinados como privates (.__)
+e de acordo com a ocasiao se define os gets e sets como @propertys.
